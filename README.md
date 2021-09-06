@@ -4,7 +4,13 @@
 Clustering applied to synthetic Mall-customers dataset
 
 ## Dataset
-Synthetic dataset from https://www.kaggle.com/shwetabh123/mall-customers
+* Synthetic dataset from https://www.kaggle.com/shwetabh123/mall-customers.
+* Useful to apply clustering algorithms to study customer segementation
+* Dataset features :
+  * Genre
+  * Age
+  * Annual income
+  * Spending score   
 
 ## Repository content
 * mall-customers.ipynb : Jupyter noteboook
@@ -12,4 +18,5 @@ Synthetic dataset from https://www.kaggle.com/shwetabh123/mall-customers
 
 ## Notebook
 * Data visualisation
-* K-means Clustering
+* Unsupervised machine learning processing
+  * K-means Clustering
